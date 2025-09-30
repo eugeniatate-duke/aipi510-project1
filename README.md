@@ -26,14 +26,16 @@ https://bylinedocs.com/published/9727ae27-7350-4888-b077-358bfd11e642
    ```bash
    git clone https://github.com/eugeniatate-duke/aipi510-project1.git
    cd aipi510-project1
+   git checkout feature-project1
 
-2. Create a virtual environment and install requirements: 
+2. Create a virtual environment and install requirements:
+   
     python -m venv venv
     source venv/bin/activate      # Mac/Linux  
     venv\Scripts\activate         # Windows  
     pip install -r requirements.txt
 
-3. Run notebook: 
+4. Run notebook: 
     jupyter notebook project1.ipynb
 
 
