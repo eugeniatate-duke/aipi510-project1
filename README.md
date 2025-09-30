@@ -6,6 +6,10 @@ I analyzed American National Election Studies (ANES) data to explore whether you
 ## Blog Post 
 https://bylinedocs.com/published/9727ae27-7350-4888-b077-358bfd11e642 
 
+## Presentation 
+https://www.canva.com/design/DAG0enyl3xc/Hri3dZsNJ3bUeZttkwkiOA/edit?utm_content=DAG0enyl3xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
+## Video Presentation
 ---
 
 ## Dataset  
