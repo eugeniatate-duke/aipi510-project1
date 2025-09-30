@@ -29,13 +29,14 @@ https://bylinedocs.com/published/9727ae27-7350-4888-b077-358bfd11e642
    git checkout feature-project1
 
 2. Create a virtual environment and install requirements:
-   
+   ```bash
     python -m venv venv
     source venv/bin/activate      # Mac/Linux  
     venv\Scripts\activate         # Windows  
     pip install -r requirements.txt
 
-4. Run notebook: 
+4. Run notebook:
+   ```bash
     jupyter notebook project1.ipynb
 
 
