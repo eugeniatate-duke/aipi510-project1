@@ -3,6 +3,9 @@
 ## Overview  
 I analyzed American National Election Studies (ANES) data to explore whether young voters (18–29) are leaning more conservative, contributing to a broader “red wave.” I compared partisan identification across age groups and created new features to highlight generational trends.  
 
+## Blog Post 
+https://bylinedocs.com/published/9727ae27-7350-4888-b077-358bfd11e642 
+
 ---
 
 ## Dataset  
