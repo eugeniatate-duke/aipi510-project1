@@ -20,6 +20,13 @@ https://bylinedocs.com/published/9727ae27-7350-4888-b077-358bfd11e642
   - Partisan ID counts (Strong Democrat, Weak Democrat, Independent Democrat, Independent, Independent Republican, Weak Republican, Strong Republican)  
   - Derived percentages (`D %`, `R %`, `I %`)  
 ---
+## Project Structure
+- `data/raw/` – original ANES dataset
+- `data/processed/` – cleaned dataset used for analysis
+- `notebooks/` – main Jupyter notebook with analysis
+- `figures/` – charts generated for the blog and presentation
+
+--- 
 
 ## How to Reproduce  
 1. Clone the repo and enter the folder:  
